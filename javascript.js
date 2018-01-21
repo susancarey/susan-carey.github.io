@@ -1,0 +1,12 @@
+console.log('Hello World');
+alert('Hello Susan!');
+var numberOfKittens = 5;
+var numberOfPuppies = 4;
+var numberOfAnimals = numberOfKittens + numberOfPuppies;
+console.log('numberOfPuppies' + numberOfPuppies);
+console.log('numberOfKittens');
+console.log(numberOfPuppies);
+console.log(numberOfAnimals);
+var puppysName = 'Phoebe';
+console.log(puppysName);
+console.log('Puppy\'s Name' + puppysName);
